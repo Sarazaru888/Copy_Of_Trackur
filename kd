@@ -1,0 +1,598 @@
+[33mcommit df124bbcec1eca86cf737effbdd28067dd8c16f3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8e6b5ba f9a66b8
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Mon Mar 11 22:25:45 2024 -0700
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit 8e6b5baf62811238fe0d02c5bf9ac0d97db3fa04[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Mon Mar 11 22:25:41 2024 -0700
+
+    ok
+
+[33mcommit 1d1a35e0bbfa3144138dfb6873347f95336b5554[m[33m ([m[1;32mryanprofiletest[m[33m)[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Mon Mar 11 22:23:26 2024 -0700
+
+    ok
+
+[33mcommit f9a66b880af4fbfa4a3f1b5a2be2724f6a1caabf[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Mon Mar 11 15:07:52 2024 -0700
+
+    styling changes
+
+[33mcommit 98cecb7fffdda62e45be22a7873ec5d56d286b70[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Mon Mar 11 13:42:11 2024 -0700
+
+    add classifier connection check
+
+[33mcommit 369388094537272f2bfeaf4b19b1f231eb2fc229[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Mon Mar 11 13:07:56 2024 -0700
+
+    refactoring
+
+[33mcommit cc07709ff9b3160d5af3325b53dafb0d72b336bc[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Mon Mar 11 11:36:40 2024 -0700
+
+    seed changes
+
+[33mcommit 7ead79fe9db1da0088599481a8f0972c9b111cf1[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Mon Mar 11 10:34:41 2024 -0700
+
+    styling, tos
+
+[33mcommit 35b785338efab8dd2d19b3ddd825721d539d95d4[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Mon Mar 11 09:55:14 2024 -0700
+
+    styling, qol changes
+
+[33mcommit a58d525ca0234838556d9474719df2a69134a059[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Mar 7 21:01:07 2024 -0800
+
+    add checks
+
+[33mcommit 0894c4bcbe3d47d536936bf71695b307c872ef83[m
+Merge: 7754e77 4a8f30b
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Mar 7 20:06:12 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit 7754e77a5439009a8fe6518f8d53495d3d2b545a[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Mar 7 20:06:03 2024 -0800
+
+    Update README.md
+
+[33mcommit 4a8f30b44d9bfd5c54d1451987e06d0bb432bf35[m
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Thu Mar 7 20:04:19 2024 -0800
+
+    Centered the loading screen of feed
+
+[33mcommit 31c622632759257843973547fb50f041a0e2850b[m
+Author: Jessica Luu <51142791+jluudev@users.noreply.github.com>
+Date:   Thu Mar 7 18:13:04 2024 -0800
+
+    Update README.md
+
+[33mcommit 947605158851fc5b49d10aef0cd73d80a1be7502[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 18:11:12 2024 -0800
+
+    modify README.md
+
+[33mcommit 6de8686471902cb47eecc893ac9763e1b2e1e3f9[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Mar 7 17:49:25 2024 -0800
+
+    update readme with requirements.txt instructions
+
+[33mcommit 1ae761974b7f1ec7f262dab125ecb3079bc6247c[m
+Merge: 3dc124e bc5f24d
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 17:29:19 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit 3dc124e6ec9f0ba7f8a3ee69215c459427c8cf4a[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 17:28:34 2024 -0800
+
+    modify README
+
+[33mcommit bc5f24d102793633f5146b97348117fbae609702[m
+Merge: 766c610 86be90a
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Mar 7 17:27:48 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit 766c61029b855d912a8ba66a4674078a8c6d88dc[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Mar 7 17:27:10 2024 -0800
+
+    ok
+
+[33mcommit 86be90a05a447eb9caf8dd33ee7596fb2d7135cb[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 17:20:11 2024 -0800
+
+    modify README
+
+[33mcommit 4b86d0cf1e3560a44aaa5adfe077b08d2ae06d73[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 08:46:27 2024 -0800
+
+    edit README
+
+[33mcommit f158cc60bf6868383c0f91dadd3a368de1068527[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 08:45:59 2024 -0800
+
+    edit README
+
+[33mcommit 3092aeacb9a569be7212c9abd5d8d03810e17f49[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 08:44:51 2024 -0800
+
+    edit README
+
+[33mcommit 058a456ef6eae836759cdf387d804f679594e4cb[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 08:43:48 2024 -0800
+
+    edit README
+
+[33mcommit 7cc2607f0f2944ffb74671fe4e58c67ee86f7919[m
+Merge: 101d6e0 08ad40e
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Mar 7 00:27:39 2024 -0800
+
+    revert docker for now and add animal classify
+
+[33mcommit 08ad40e6ba9bd1ca71cfd46f5f76de27edc123d2[m[33m ([m[1;31morigin/animal-classification[m[33m)[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Wed Mar 6 23:24:32 2024 -0800
+
+    add model
+
+[33mcommit ec2275ee6f673ca6ca883dfcc1ce9b8af9b7fe72[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Wed Mar 6 23:20:09 2024 -0800
+
+    Track .h5 files with Git LFS
+
+[33mcommit 404ddf24b632373af9d10cb47f46404e22d52ac6[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Wed Mar 6 23:18:42 2024 -0800
+
+    added flask backend for classification + dockerize
+
+[33mcommit 9c6f8e9208e5fb5b110ad3f3e95c96250b7d05b7[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Wed Mar 6 22:46:08 2024 -0800
+
+    classify if it's an animal
+
+[33mcommit 101d6e01136a726ce0d9834e07433996e04e01fc[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:51:47 2024 -0800
+
+    fix seed check
+
+[33mcommit 36b907989646b8d18c9312bab54837fec85868e0[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:51:47 2024 -0800
+
+    fix seed check
+
+[33mcommit 662e8af1a1620d79371bc440c191cf7fc9a12952[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:35:34 2024 -0800
+
+    add seed check + more animals
+
+[33mcommit c9fcca45b20943a4405c25ad8ea4ab6aad0daa54[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:35:34 2024 -0800
+
+    add seed check + more animals
+
+[33mcommit 3e607a00c7c2fc0fc9b22cbae8a84bdd73ed3aed[m
+Merge: c51c654 877b8f5
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 20:30:27 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit db7ba2b655b44f70a3ce4de05339d08ca916ed78[m
+Merge: 04a25cd 65f951e
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 20:30:27 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit c51c6545009076187fc7031328c29b5594dfc2a8[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 20:30:20 2024 -0800
+
+    add time elapsed filter
+
+[33mcommit 04a25cdba17c22cfc3b27e708cfb7a3d43c6849f[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 20:30:20 2024 -0800
+
+    add time elapsed filter
+
+[33mcommit 877b8f5257c2f184e73b35e91331bab42d38802a[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:29:08 2024 -0800
+
+    modify README
+
+[33mcommit 65f951e880d4d8c0f42abbd2ddf1f56913ecef7a[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:29:08 2024 -0800
+
+    modify README
+
+[33mcommit 3a6b1d3c4b6a29f73e100a9bd7f10c758794971a[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:28:28 2024 -0800
+
+    modify README
+
+[33mcommit 3f32f8a8ef2e2a9b38c5fdf60442174618c7f6e3[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:28:28 2024 -0800
+
+    modify README
+
+[33mcommit 81304e60228cdb8a55567f92963df16502ce7d9e[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:26:19 2024 -0800
+
+    modify README
+
+[33mcommit ced48fc3ec3224d7bf9b9c3590cb867d4ab1ef9c[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:26:19 2024 -0800
+
+    modify README
+
+[33mcommit 190b589508d4b381868fe3140cd156b47e9087e3[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:20:34 2024 -0800
+
+    dockerize
+
+[33mcommit c8c11e7cf53afcebfa61ce173053b3448d4bb500[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Mar 5 20:20:34 2024 -0800
+
+    dockerize
+
+[33mcommit 9e86e2cf7365c786daf10d532a7351aff968d65c[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 20:07:35 2024 -0800
+
+    fix seed
+
+[33mcommit 9a91c28331b79634287f0e6041eb646ec12055b5[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 20:07:35 2024 -0800
+
+    fix seed
+
+[33mcommit 73e5fef86d3122b84d3b6f6a79c545ae5f07623b[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 19:49:11 2024 -0800
+
+    update seed
+
+[33mcommit 0848d51d0c62acb1020757e83a0521ff992482fd[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 19:49:11 2024 -0800
+
+    update seed
+
+[33mcommit 21b045e0bc367b8f076629bd87523bc8e097aaab[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 19:30:31 2024 -0800
+
+    bug fix
+
+[33mcommit c0b5b7189cd82e8b5ba382a6e48cd0666c1d2fa4[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 19:30:31 2024 -0800
+
+    bug fix
+
+[33mcommit f8262b711dc7abab492883e1122d9b2ff88d523d[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 19:27:06 2024 -0800
+
+    add login and signup pages
+
+[33mcommit 83ee41c30fd87c3860cea570c71d521a171a3d28[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Mar 5 19:27:06 2024 -0800
+
+    add login and signup pages
+
+[33mcommit 3c5a1123c924ae2a6acaa50868506928cec3e3b5[m[33m ([m[1;31morigin/profile[m[33m)[m
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Sun Mar 3 20:48:17 2024 -0800
+
+    Changes
+
+[33mcommit 91d7f188fedcd0f62a641f8d1e3f92492b7a1dc7[m
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Sun Mar 3 20:48:17 2024 -0800
+
+    Changes
+
+[33mcommit 3cf7bc8b496ea91e692e9c3c7c9f0fd5c6a21507[m
+Merge: 8036d1f 02f0ef2
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Sun Mar 3 20:42:13 2024 -0800
+
+    uh
+
+[33mcommit 3342bf744b6f0e8170b028e291869086447590ba[m
+Merge: 91db273 7af8267
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Sun Mar 3 20:42:13 2024 -0800
+
+    uh
+
+[33mcommit 8036d1f0e83caeb516b1a31e145118de4bedf14b[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:50:46 2024 -0800
+
+    i centered a div!!!
+
+[33mcommit 91db273bedf81dd9d05b8509a4fd34c6ff991760[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:50:46 2024 -0800
+
+    i centered a div!!!
+
+[33mcommit c3a497864b6a53d8af1f4aaa984428eb6b29d107[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:42:26 2024 -0800
+
+    profile page
+
+[33mcommit ff17ae778505f5ec4118e3c079b7a35971015a71[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:42:26 2024 -0800
+
+    profile page
+
+[33mcommit f6ed5851ffde471b548f8ce873c3d33c6ee55a2c[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:37:37 2024 -0800
+
+    ok
+
+[33mcommit 63ec8cb02e0c1d89613730e719999ef5b5beb85f[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:37:37 2024 -0800
+
+    ok
+
+[33mcommit 07e95d45c9a152b5e8f3ecb22f5b8f5bf11fdb1f[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:17:14 2024 -0800
+
+    ok
+
+[33mcommit 0167caa33deb3c5c8afa1b74af975a1769d153a1[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:17:14 2024 -0800
+
+    ok
+
+[33mcommit 349b74b839c2576d8754bccc92667178919583fd[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:10:27 2024 -0800
+
+    here
+
+[33mcommit 13dc40711020c6b6b59ee40aa18a4b8713d5aa46[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 15 19:10:27 2024 -0800
+
+    here
+
+[33mcommit b86a7cbed07c53fecc8a76c074adc117589807e2[m
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Sun Mar 3 20:12:40 2024 -0800
+
+    profile page first iteration?
+
+[33mcommit 275947633a4a62bb963b4c8637bc22032235eaa5[m
+Author: Austin Tepe <atepe101@gmail.com>
+Date:   Sun Mar 3 20:12:40 2024 -0800
+
+    profile page first iteration?
+
+[33mcommit 95109eeb4c92a91a282d9c6f66b48e5da47387dc[m
+Merge: 50eb6b9 c137efa
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 29 19:12:34 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit 3ecdf09940b34f2f19eac35b4456d1889a25e411[m
+Merge: 643eec3 c663942
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 29 19:12:34 2024 -0800
+
+    Merge branch 'main' of https://github.com/CSC307Winter2024/Trackur
+
+[33mcommit 50eb6b932bfad36a0fb9d27c0ca2f9d5a71b500e[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 29 19:12:24 2024 -0800
+
+    hehe
+
+[33mcommit 643eec35575b7b0c167351ed50f2293fbfd7e889[m
+Author: rjsal <rjsalaz888@gmail.com>
+Date:   Thu Feb 29 19:12:24 2024 -0800
+
+    hehe
+
+[33mcommit c137efa0aa1af916f6e3c80ed9da90b426869276[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 29 18:09:14 2024 -0800
+
+    fix directions
+
+[33mcommit c6639422f977e97b471193cfed24b68ad2dd3674[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 29 18:09:14 2024 -0800
+
+    fix directions
+
+[33mcommit 609043871715d32ffb05854e7c3ee59df91748f8[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 29 18:00:04 2024 -0800
+
+    add back button, map dialog fix, fix navbar
+
+[33mcommit e84d50f145c2c0f56e50a23492369f1137d7bb05[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 29 18:00:04 2024 -0800
+
+    add back button, map dialog fix, fix navbar
+
+[33mcommit 7f67c8eec67925d454808c5dfea2ec233bece396[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Feb 29 08:41:48 2024 -0800
+
+    fix styling
+
+[33mcommit e5fd25032f6deea9f7fdcca55e0752fff44f13b1[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Feb 29 08:41:48 2024 -0800
+
+    fix styling
+
+[33mcommit 7cf980216c7946338ee17895d7ccf8e03f201188[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Feb 27 20:56:15 2024 -0800
+
+    save images on server, post tooltip
+
+[33mcommit e88e8fd032386d57939f7428d88de5863ff3157a[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Tue Feb 27 20:56:15 2024 -0800
+
+    save images on server, post tooltip
+
+[33mcommit 3f76151f2f7760711c75ec8813aa62f0f8d127bd[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Feb 27 19:45:34 2024 -0800
+
+    Filter
+
+[33mcommit 96b8ecb563480257a4d93ed06840851ba8dfd6d4[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Tue Feb 27 19:45:34 2024 -0800
+
+    Filter
+
+[33mcommit 3d0a81d5602845723c6986e4ceeb4e443d15b65d[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 21:23:29 2024 -0800
+
+    add likes
+
+[33mcommit 3e72842f05a073df387158d115490efc059000b6[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 21:23:29 2024 -0800
+
+    add likes
+
+[33mcommit 2b6f16a6e3024ee5ace3415529b960c83fe5c671[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 19:57:27 2024 -0800
+
+    fix comments
+
+[33mcommit 6450b42bbd7da2887a2957e39bd0b003ab7fae17[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 19:57:27 2024 -0800
+
+    fix comments
+
+[33mcommit 5b585a77935d5df6085f4b6c6d16011aa37eaa0f[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Feb 22 19:53:11 2024 -0800
+
+    photo preview on map
+
+[33mcommit 11f0742c544431f23bb8ca389e08afd85459cc3e[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Feb 22 19:53:11 2024 -0800
+
+    photo preview on map
+
+[33mcommit 817ff808781b6ae05b2ff67aab1141e955de75bf[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Feb 22 19:41:24 2024 -0800
+
+    user location + infobox
+
+[33mcommit 66c65529453d2baf2f1c99668ec2f7e474ad3c8d[m
+Author: jessicaluu <jlluudev@gmail.com>
+Date:   Thu Feb 22 19:41:24 2024 -0800
+
+    user location + infobox
+
+[33mcommit 178b0284c7368620967969a9a08e4aa24291a532[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 19:01:06 2024 -0800
+
+    post styling changes
+
+[33mcommit 928b7cf6c532b722cda0ec02b35f8d98f77e7dab[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 19:01:06 2024 -0800
+
+    post styling changes
+
+[33mcommit 686c823f9af9c351e454a084b830eea2cb41a7cf[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 18:32:36 2024 -0800
+
+    fix map clicking on markers
+
+[33mcommit 7214bbcabd5a35ef52b7cc343121dae4fe49224b[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 18:32:36 2024 -0800
+
+    fix map clicking on markers
+
+[33mcommit 64210bbdb5603b9876ae569058715f4299382853[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 18:13:01 2024 -0800
+
+    add loader to feed
+
+[33mcommit f7eef10140ab8b457f753a0ecf5198997cdfdb13[m
+Author: ruiyichi <danielching2@gmail.com>
+Date:   Thu Feb 22 18:13:01 2024 -0800
+
+    add loader to feed
